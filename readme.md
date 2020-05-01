@@ -13,7 +13,7 @@ CRUD functionality for customer with nodejs, express and mysql db
 
 
 ### Clone
-- 1. Clone the repo. run command `git clone https://github.com/Mubangizi/Customer-Api.git`
+- Clone the repo. run command `git clone https://github.com/Mubangizi/Customer-Api.git`
 
 - Navigate into the folder that is cloned. run command `cd Customer-Api`
 
